@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://malouninc.github.io/malouninc.txt.gz
+Sitemap: https://malouninc.github.io/app/malouninc.txt.gz
+Sitemap: https://malouninc.github.io/assets/malouninc.txt.gz
+Sitemap: https://malouninc.github.io/css/malouninc.txt.gz
+Sitemap: https://malouninc.github.io/includes/malouninc.txt.gz
+Sitemap: https://malouninc.github.io/item/malouninc.txt.gz
+Sitemap: https://malouninc.github.io/src/malouninc.txt.gz
